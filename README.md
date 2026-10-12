@@ -1,4 +1,4 @@
-# INFRIXON AI LABS website
+# INFRIXON AI LABS 
 
 React and Vite company website for cloud, data, AI, Java/Spring, DevOps, cybersecurity, and enterprise consulting. The work examples describe illustrative engagement patterns; they are not named client case studies.
 
